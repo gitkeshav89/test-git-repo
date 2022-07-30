@@ -7,7 +7,6 @@ public class Abc {
     //added new field
     private String address;
 
-    private String conflict;
 
     public Abc(String name, Integer age, String gender, String address) {
         this.name = name;
